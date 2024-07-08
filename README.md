@@ -32,7 +32,7 @@ A simple to-do list application built with React and Ant Design (antd).
 
 4. **Install Ant Design (antd):**
    ```bash
-   npm install antd
+   npm install antd@4
 
 5. **Start the development server:**
    ```bash
